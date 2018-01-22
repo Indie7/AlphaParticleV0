@@ -1,0 +1,784 @@
+﻿Log file open, 01/21/18 16:06:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MainProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1766006824) SRandInit(1766006824).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176115
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.22-00.06.51:865][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.22-00.06.51:865][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.22-00.06.51:880][  0]LogInit: Computer: ANDROMEDA
+[2018.01.22-00.06.51:880][  0]LogInit: User: Steven
+[2018.01.22-00.06.51:880][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.22-00.06.51:880][  0]LogInit: High frequency timer resolution =3.515617 MHz
+[2018.01.22-00.06.51:880][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.01.22-00.06.51:880][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.22-00.06.51:880][  0]LogMemory: Process Physical Memory: 275.77 MB used, 275.77 MB peak
+[2018.01.22-00.06.51:880][  0]LogMemory: Process Virtual Memory: 277.01 MB used, 277.01 MB peak
+[2018.01.22-00.06.51:880][  0]LogMemory: Physical Memory: 10151.45 MB used,  22565.71 MB free, 32717.16 MB total
+[2018.01.22-00.06.51:880][  0]LogMemory: Virtual Memory: 689.78 MB used,  22565.71 MB free, 134217728.00 MB total
+[2018.01.22-00.06.52:375][  0]LogInit: Using OS detected language (en-US).
+[2018.01.22-00.06.52:375][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.22-00.06.52:379][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.22-00.06.52:800][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.22-00.06.53:254][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.22-00.06.53:301][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.01.22-00.06.53:301][  0]LogD3D11RHI:       4060/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.22-00.06.53:304][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.22-00.06.53:304][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.22-00.06.53:304][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.22-00.06.53:310][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.22-00.06.53:310][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.22-00.06.53:310][  0]LogWindows: EnumDisplayDevices:
+[2018.01.22-00.06.53:310][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.01.22-00.06.53:310][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.01.22-00.06.53:310][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.01.22-00.06.53:310][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.01.22-00.06.53:310][  0]LogWindows:    4. 'LMIMIRR' (P:0 D:0)
+[2018.01.22-00.06.53:311][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.22-00.06.53:311][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.01.22-00.06.53:311][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.22-00.06.53:311][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.22-00.06.53:311][  0]LogRHI: Texture pool is 2842 MB (70% of 4060 MB)
+[2018.01.22-00.06.53:332][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.22-00.06.53:397][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.22-00.06.53:447][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Intermediate/Shaders/WorkingDirectory/13080/).
+[2018.01.22-00.06.53:447][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Steven/AppData/Local/Temp/UnrealShaderWorkingDir/04E61B5F4DAEE6FD857929AE7C7F84A3/'.
+[2018.01.22-00.06.53:447][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.22-00.06.54:711][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.22-00.06.54:858][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.22-00.06.55:003][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.22-00.06.55:152][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.22-00.06.55:305][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.22-00.06.55:450][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.22-00.06.55:597][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.22-00.06.55:737][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.22-00.06.55:871][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.22-00.06.56:009][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.22-00.06.56:150][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.22-00.06.56:289][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.22-00.06.56:428][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.22-00.06.56:570][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.22-00.06.56:863][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.22-00.06.56:863][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.22-00.06.57:007][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.22-00.06.57:135][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.22-00.06.57:358][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.22-00.06.57:428][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.22-00.06.57:569][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.22-00.06.57:707][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.22-00.06.57:850][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.22-00.06.57:990][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.22-00.06.57:990][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.22-00.06.59:463][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.22-00.06.59:539][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Steven/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.22-00.06.59:539][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Steven/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.22-00.06.59:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.22-00.06.59:539][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.22-00.06.59:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.22-00.06.59:540][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.22-00.06.59:557][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.22-00.06.59:569][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Steven/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.22-00.06.59:582][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.22-00.06.59:582][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.22-00.06.59:584][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.22-00.06.59:584][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.22-00.07.00:044][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.22-00.07.00:861][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.22-00.07.00:990][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.22-00.07.00:990][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.22-00.07.00:990][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.22-00.07.00:990][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.22-00.07.00:990][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.22-00.07.01:029][  0]LogNetVersion: MainProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 877938324)
+[2018.01.22-00.07.01:310][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.01.22-00.07.02:073][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.077297 seconds
+[2018.01.22-00.07.02:079][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.22-00.07.02:079][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.22-00.07.02:079][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.22-00.07.02:272][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.22-00.07.08:396][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.22-00.07.08:526][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.22-00.07.10:255][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.22-00.07.11:307][  0]SourceControl: Source control is disabled
+[2018.01.22-00.07.14:584][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.22-00.07.15:399][  0]LogOcInput: OculusInput pre-init called
+[2018.01.22-00.07.16:206][  0]LogEngine: Initializing Engine...
+[2018.01.22-00.07.16:208][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.22-00.07.16:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.22-00.07.16:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.22-00.07.16:831][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.22-00.07.16:852][  0]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.22-00.07.16:861][  0]LogInit: FAudioDevice initialized.
+[2018.01.22-00.07.16:961][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/Steven/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.22-00.07.16:976][  0]LogInit: Texture streaming: Enabled
+[2018.01.22-00.07.17:302][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.22-00.07.17:690][  0]LogInit: Transaction tracking system initialized
+[2018.01.22-00.07.18:653][  0]BlueprintLog: New page: Editor Load
+[2018.01.22-00.07.21:533][  0]LocalizationService: Localization service is disabled
+[2018.01.22-00.07.23:926][  0]LogConsoleResponse: Display: 
+[2018.01.22-00.07.24:166][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.22-00.07.24:166][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.22-00.07.24:166][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.22-00.07.24:340][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/' took 0.01s
+[2018.01.22-00.07.27:794][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.22-00.07.27:794][  0]LightingResults: New page: Lighting Build
+[2018.01.22-00.07.27:935][  0]MapCheck: New page: Map Check
+[2018.01.22-00.07.27:936][  0]LightingResults: New page: Lighting Build
+[2018.01.22-00.07.28:260][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.22-00.07.28:269][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.22-00.07.28:281][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.22-00.07.28:387][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106.304ms to complete.
+[2018.01.22-00.07.28:388][  0]LogFileHelpers: Loading map 'Template_Default' took 0.594
+[2018.01.22-00.07.28:613][  0]LogCollectionManager: Loaded 0 collections in 0.002052 seconds
+[2018.01.22-00.07.28:785][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Collections/' took 0.01s
+[2018.01.22-00.07.28:785][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Developers/Steven/Collections/' took 0.01s
+[2018.01.22-00.07.28:785][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Collections/' took 0.01s
+[2018.01.22-00.07.28:785][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.22-00.07.28:795][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2363 classes and 519 folders.
+[2018.01.22-00.07.29:007][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.22-00.07.29:072][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.22-00.07.29:215][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.22-00.07.29:282][  0]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.22-00.07.29:285][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.22-00.07.29:291][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.22-00.07.29:395][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2018.01.22-00.07.29:708][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.22-00.07.29:708][  0]LogLoad: (Engine Initialization) Total time: 41.86 seconds
+[2018.01.22-00.07.29:708][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.22-00.07.29:708][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.22-00.07.29:718][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.22-00.07.29:737][  0]SourceControl: On branch HUD_Item_Popup
+[2018.01.22-00.07.29:737][  0]SourceControl: Your branch is up-to-date with 'origin/HUD_Item_Popup'.
+[2018.01.22-00.07.29:737][  0]SourceControl: Changes not staged for commit:
+[2018.01.22-00.07.29:737][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.22-00.07.29:737][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.22-00.07.29:737][  0]SourceControl: 	modified:   MainProject/Intermediate/CachedAssetRegistry.bin
+[2018.01.22-00.07.29:737][  0]SourceControl: 	deleted:    MainProject/Saved/Config/CrashReportClient/UE4CC-Windows-FE3A947D4BCB1FA0AC9E5985AC2BD852/CrashReportClient.ini
+[2018.01.22-00.07.29:737][  0]SourceControl: 	modified:   MainProject/Saved/Config/Windows/Editor.ini
+[2018.01.22-00.07.29:737][  0]SourceControl: 	modified:   MainProject/Saved/Config/Windows/Engine.ini
+[2018.01.22-00.07.29:737][  0]SourceControl: 	deleted:    MainProject/Saved/Logs/MainProject-backup-2018.01.19-14.28.32.log
+[2018.01.22-00.07.29:737][  0]SourceControl: 	modified:   MainProject/Saved/Logs/MainProject.log
+[2018.01.22-00.07.29:738][  0]SourceControl: Untracked files:
+[2018.01.22-00.07.29:738][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.22-00.07.29:738][  0]SourceControl: 	MainProject/Saved/Config/CrashReportClient/UE4CC-Windows-FB4557434BD6E00590D88781DF976161/
+[2018.01.22-00.07.29:738][  0]SourceControl: 	MainProject/Saved/Logs/MainProject-backup-2018.01.21-16.06.49.log
+[2018.01.22-00.07.29:738][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.22-00.07.29:738][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.22-00.07.29:817][  1]LogAssetRegistry: Asset discovery search completed in 28.5281 seconds
+[2018.01.22-00.07.29:818][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.22-00.07.29:818][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2018.01.22-00.07.30:747][102]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.22-00.08.00:735][666]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.22-00.08.01:276][666]LogAIModule: Creating AISystem for world MechanicsMap
+[2018.01.22-00.08.01:309][666]Cmd: MAP LOAD FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Levels/MechanicsMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.22-00.08.01:309][666]LightingResults: New page: Lighting Build
+[2018.01.22-00.08.01:310][666]LoadErrors: New page: Loading map: MechanicsMap.umap
+[2018.01.22-00.08.01:311][666]MapCheck: New page: Map Check
+[2018.01.22-00.08.01:311][666]LightingResults: New page: Lighting Build
+[2018.01.22-00.08.01:393][666]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.22-00.08.01:439][666]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.22-00.08.01:561][666]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.643ms to complete.
+[2018.01.22-00.08.01:562][666]LogFileHelpers: Loading map 'MechanicsMap' took 0.255
+[2018.01.22-00.12.04:052][436]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.01.22-00.12.04:870][436]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.22-00.12.14:034][225]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.22-00.12.39:199][503]LogBlueprint: Warning: [BP_BaseItem] 'LookingAt' variable not found. Base class was probably changed. /Game/ItemSpawner/BP_BaseItem.BP_BaseItem
+[2018.01.22-00.12.39:200][503]LogBlueprint: Warning: [BP_BaseItem] 'LookingAt' variable not found. Base class was probably changed. /Game/ItemSpawner/BP_BaseItem.BP_BaseItem
+[2018.01.22-00.12.39:200][503]LogBlueprint: Warning: [BP_BaseItem] 'LookingAt' variable not found. Base class was probably changed. /Game/ItemSpawner/BP_BaseItem.BP_BaseItem
+[2018.01.22-00.12.39:200][503]LogBlueprint: Warning: [BP_BaseItem] 'LookingAt' variable not found. Base class was probably changed. /Game/ItemSpawner/BP_BaseItem.BP_BaseItem
+[2018.01.22-00.12.39:200][503]LogBlueprint: Warning: [BP_BaseItem] 'LookingAt' variable not found. Base class was probably changed. /Game/ItemSpawner/BP_BaseItem.BP_BaseItem
+[2018.01.22-00.12.39:200][503]LogBlueprint: Warning: [BP_BaseItem] 'LookingAtWidget' variable not found. Base class was probably changed. /Game/ItemSpawner/BP_BaseItem.BP_BaseItem
+[2018.01.22-00.12.39:200][503]LogBlueprint: Warning: [BP_BaseItem] 'LookingAtWidget' variable not found. Base class was probably changed. /Game/ItemSpawner/BP_BaseItem.BP_BaseItem
+[2018.01.22-00.12.39:200][503]LogBlueprint: Warning: [BP_BaseItem] 'LookingAtWidget' variable not found. Base class was probably changed. /Game/ItemSpawner/BP_BaseItem.BP_BaseItem
+[2018.01.22-00.18.41:433][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicsMap' took 0.038
+[2018.01.22-00.18.41:436][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ItemSpawner/BP_ItemSpawner] ([1] browsable assets)...
+[2018.01.22-00.18.41:436][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemSpawner/BP_ItemSpawner]
+[2018.01.22-00.18.41:514][142]LogSavePackage: Save=32.68ms
+[2018.01.22-00.18.41:514][142]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_ItemSpawner_Auto17B22781445E030A8449C8380D520E770.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/BP_ItemSpawner_Auto1.uasset'
+[2018.01.22-00.18.41:516][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/BP_ItemSpawner_Auto1.uasset
+[2018.01.22-00.18.41:518][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Interact] ([1] browsable assets)...
+[2018.01.22-00.18.41:518][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interact]
+[2018.01.22-00.18.41:579][142]LogSavePackage: Save=9.00ms
+[2018.01.22-00.18.41:579][142]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Interact_Auto13448C96C4CA008AA8AE8FBB4E1CB9C44.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Blueprints/Interact_Auto1.uasset'
+[2018.01.22-00.18.41:580][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Blueprints/Interact_Auto1.uasset
+[2018.01.22-00.18.41:581][142]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player] ([1] browsable assets)...
+[2018.01.22-00.18.41:598][142]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2018.01.22-00.18.41:598][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2018.01.22-00.18.41:820][142]LogSavePackage: Save=174.25ms
+[2018.01.22-00.18.41:820][142]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Player_Auto111D6B8914049396F876F7EBE5B27916B.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Blueprints/Player_Auto1.uasset'
+[2018.01.22-00.18.41:821][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Blueprints/Player_Auto1.uasset
+[2018.01.22-00.18.41:823][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ItemSpawner/BP_BaseItem] ([1] browsable assets)...
+[2018.01.22-00.18.41:823][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemSpawner/BP_BaseItem]
+[2018.01.22-00.18.41:914][142]LogSavePackage: Save=46.24ms
+[2018.01.22-00.18.41:914][142]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItem_Auto1E1496B6741496DB2BB5D0BBB194805E1.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/BP_BaseItem_Auto1.uasset'
+[2018.01.22-00.18.41:916][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/BP_BaseItem_Auto1.uasset
+[2018.01.22-00.18.41:917][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ItemSpawner/Items/BP_BaseCrafting] ([1] browsable assets)...
+[2018.01.22-00.18.41:917][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemSpawner/Items/BP_BaseCrafting]
+[2018.01.22-00.18.41:984][142]LogSavePackage: Save=18.47ms
+[2018.01.22-00.18.41:984][142]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseCrafting_Auto1F716A7D6472CA27A724088944CE5748A.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/Items/BP_BaseCrafting_Auto1.uasset'
+[2018.01.22-00.18.41:986][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/Items/BP_BaseCrafting_Auto1.uasset
+[2018.01.22-00.18.41:987][142]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ItemSpawner/Items/BP_BaseDrink] ([1] browsable assets)...
+[2018.01.22-00.18.42:013][142]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ItemSpawner/Items/BP_BaseDrink.BP_BaseDrink]
+[2018.01.22-00.18.42:013][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemSpawner/Items/BP_BaseDrink]
+[2018.01.22-00.18.42:089][142]LogSavePackage: Save=29.65ms
+[2018.01.22-00.18.42:089][142]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseDrink_Auto1B15536424F25C5681F8D51B5455480EA.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/Items/BP_BaseDrink_Auto1.uasset'
+[2018.01.22-00.18.42:090][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/Items/BP_BaseDrink_Auto1.uasset
+[2018.01.22-00.18.42:091][142]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ItemSpawner/Items/BP_BaseWeapon] ([1] browsable assets)...
+[2018.01.22-00.18.42:118][142]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ItemSpawner/Items/BP_BaseWeapon.BP_BaseWeapon]
+[2018.01.22-00.18.42:118][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemSpawner/Items/BP_BaseWeapon]
+[2018.01.22-00.18.42:194][142]LogSavePackage: Save=25.72ms
+[2018.01.22-00.18.42:194][142]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseWeapon_Auto1A2264E064FC870424329188D1224DA52.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/Items/BP_BaseWeapon_Auto1.uasset'
+[2018.01.22-00.18.42:195][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/ItemSpawner/Items/BP_BaseWeapon_Auto1.uasset
+[2018.01.22-00.18.42:195][142]LogFileHelpers: Auto-saving content packages took 0.762
+[2018.01.22-00.18.42:196][142]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.22-00.20.54:998][599]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.22-00.21.04:939][232]BlueprintLog: New page: Compile Interact
+[2018.01.22-00.21.05:117][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interact" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset" SILENT=true
+[2018.01.22-00.21.05:168][232]LogSavePackage: Save=9.59ms
+[2018.01.22-00.21.05:168][232]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/InteractA0A037C647BF0ED00C15D8B5A5960C72.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset'
+[2018.01.22-00.21.05:176][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset
+[2018.01.22-00.21.34:431][334]BlueprintLog: New page: Compile Interact
+[2018.01.22-00.21.34:600][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interact" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset" SILENT=true
+[2018.01.22-00.21.34:653][334]LogSavePackage: Save=10.18ms
+[2018.01.22-00.21.34:653][334]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Interact7DB5BA854370849EB5FEB5AD8C1B1EF3.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset'
+[2018.01.22-00.21.34:657][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset
+[2018.01.22-00.22.35:800][623]BlueprintLog: New page: Compile Interact
+[2018.01.22-00.22.35:972][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interact" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset" SILENT=true
+[2018.01.22-00.22.36:025][623]LogSavePackage: Save=9.91ms
+[2018.01.22-00.22.36:025][623]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Interact08823C674BCAEC883D9FBBB6BD8D1CAC.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset'
+[2018.01.22-00.22.36:030][623]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset
+[2018.01.22-00.22.49:484][457]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.22.50:121][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.22.50:203][457]LogSavePackage: Save=37.10ms
+[2018.01.22-00.22.50:203][457]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItem3BEDFFEB4BD6BFDF09F468BEB1CA9642.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.22.50:212][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.22.50:273][457]LogSavePackage: Save=17.66ms
+[2018.01.22-00.22.50:274][457]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseCrafting148443A74B91ECA9DB1980A10D560DA9.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset'
+[2018.01.22-00.22.50:283][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset
+[2018.01.22-00.22.50:286][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseDrink" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset" SILENT=true
+[2018.01.22-00.22.50:346][457]LogSavePackage: Save=17.46ms
+[2018.01.22-00.22.50:346][457]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseDrink75449989440FC944BE8F21AB80D7DC63.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset'
+[2018.01.22-00.22.50:356][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset
+[2018.01.22-00.22.50:359][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseWeapon" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.01.22-00.22.50:417][457]LogSavePackage: Save=17.35ms
+[2018.01.22-00.22.50:417][457]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseWeapon73BE242F4B52B0FEFAFB039F47DF4237.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset'
+[2018.01.22-00.22.50:424][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset
+[2018.01.22-00.25.43:634][494]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.25.43:660][494]LogBlueprint: Warning: [Compiler BP_BaseItem] Could not find a variable named "LookingAtWidget" in 'BP_BaseItem_C'.
+Make sure 'BP_BaseItem_C' has been compiled for  Get LookingAtWidget
+[2018.01.22-00.25.43:660][494]LogBlueprint: Warning: [Compiler BP_BaseItem] Could not find a variable named "LookingAtWidget" in 'BP_BaseItem_C'.
+Make sure 'BP_BaseItem_C' has been compiled for  Set LookingAtWidget
+[2018.01.22-00.25.43:660][494]LogBlueprint: Warning: [Compiler BP_BaseItem] Could not find a variable named "LookingAt" in 'BP_BaseItem_C'.
+Make sure 'BP_BaseItem_C' has been compiled for  Set LookingAt
+[2018.01.22-00.25.43:660][494]LogBlueprint: Warning: [Compiler BP_BaseItem] Could not find a variable named "LookingAt" in 'BP_BaseItem_C'.
+Make sure 'BP_BaseItem_C' has been compiled for  Get LookingAt
+[2018.01.22-00.25.43:660][494]LogBlueprint: Warning: [Compiler BP_BaseItem] Could not find a variable named "LookingAt" in 'BP_BaseItem_C'.
+Make sure 'BP_BaseItem_C' has been compiled for  Set LookingAt
+[2018.01.22-00.25.43:661][494]LogBlueprint: Error: [Compiler BP_BaseItem] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.01.22-00.25.43:663][494]LogBlueprint: Error: [Compiler BP_BaseItem] The property associated with  Looking at Widget  could not be found
+[2018.01.22-00.25.43:663][494]LogBlueprint: Error: [Compiler BP_BaseItem] The property associated with  Looking At  could not be found
+[2018.01.22-00.25.43:664][494]LogBlueprint: Error: [Compiler BP_BaseItem] The property associated with  Looking At  could not be found
+[2018.01.22-00.25.43:664][494]LogBlueprint: Error: [Compiler BP_BaseItem] The property associated with  Looking at Widget  could not be found
+[2018.01.22-00.25.43:664][494]LogBlueprint: Error: [Compiler BP_BaseItem] The property associated with  Looking At  could not be found
+[2018.01.22-00.25.44:067][494]LogSavePackage: Save=18.15ms
+[2018.01.22-00.25.44:067][494]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseCraftingBFCBFA2B4B64AACE8133DB9ABE9364D4.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset'
+[2018.01.22-00.25.44:072][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset
+[2018.01.22-00.25.44:076][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseDrink" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset" SILENT=true
+[2018.01.22-00.25.44:143][494]LogSavePackage: Save=19.59ms
+[2018.01.22-00.25.44:143][494]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseDrink7DF9C0504DDD1BA1028FC5A26D0BA3EA.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset'
+[2018.01.22-00.25.44:147][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset
+[2018.01.22-00.25.44:152][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseWeapon" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.01.22-00.25.44:217][494]LogSavePackage: Save=18.62ms
+[2018.01.22-00.25.44:217][494]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseWeapon160C71EF479BA4BA6DE51984ADF6CC91.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset'
+[2018.01.22-00.25.44:222][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset
+[2018.01.22-00.25.44:225][494]LogBlueprint: Warning: [Compiler BP_BaseItem] [1136.38] Compile of BP_BaseItem failed. 6 Fatal Issue(s) 5 Warning(s) [in 590 ms] (/Game/ItemSpawner/BP_BaseItem.BP_BaseItem)
+[2018.01.22-00.27.23:107][970]LogEditorTransaction: Undo Delete current selection
+[2018.01.22-00.29.02:990][ 38]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.29.03:016][ 38]LogBlueprint: Error: [Compiler BP_BaseItem] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2018.01.22-00.29.03:324][ 38]LogSavePackage: Save=18.60ms
+[2018.01.22-00.29.03:324][ 38]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseCraftingD943D20849123EA7DEF53AA8C5B733FB.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset'
+[2018.01.22-00.29.03:328][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset
+[2018.01.22-00.29.03:332][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseDrink" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset" SILENT=true
+[2018.01.22-00.29.03:392][ 38]LogSavePackage: Save=18.26ms
+[2018.01.22-00.29.03:392][ 38]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseDrinkA62D7D25428FD60400447EB9E9DB2A01.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset'
+[2018.01.22-00.29.03:398][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset
+[2018.01.22-00.29.03:404][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseWeapon" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.01.22-00.29.03:461][ 38]LogSavePackage: Save=18.70ms
+[2018.01.22-00.29.03:461][ 38]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseWeapon2E6D8D0B449EEDF420B70E9A4C883766.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset'
+[2018.01.22-00.29.03:465][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset
+[2018.01.22-00.29.03:470][ 38]LogBlueprint: Warning: [Compiler BP_BaseItem] [1335.62] Compile of BP_BaseItem failed. 1 Fatal Issue(s) 0 Warning(s) [in 479 ms] (/Game/ItemSpawner/BP_BaseItem.BP_BaseItem)
+[2018.01.22-00.29.18:654][682]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.29.18:930][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.29.19:019][682]LogSavePackage: Save=45.33ms
+[2018.01.22-00.29.19:019][682]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItem4EFCED7241C1907E7F58AE83D3B6DD9D.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.29.19:023][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.30.49:837][866]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.30.50:433][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.30.50:520][866]LogSavePackage: Save=45.46ms
+[2018.01.22-00.30.50:520][866]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItemAD7656B04994C426548618948230EECD.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.30.50:525][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.30.54:382][131]BlueprintLog: New page: Compile Player
+[2018.01.22-00.30.54:488][131]LogBlueprint: Error: [Compiler Player] Message node  Looked At
+Using Interface SKEL_Interact_C  must have a valid target or reference to self.
+[2018.01.22-00.30.55:054][131]LogBlueprint: Warning: [Compiler Player] [1447.21] Compile of Player failed. 1 Fatal Issue(s) 0 Warning(s) [in 672 ms] (/Game/Blueprints/Player.Player)
+[2018.01.22-00.31.16:996][981]BlueprintLog: New page: Compile Player
+[2018.01.22-00.31.17:771][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset" SILENT=true
+[2018.01.22-00.31.17:972][981]LogSavePackage: Save=156.38ms
+[2018.01.22-00.31.17:972][981]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/PlayerAB90FD1C404BC6FBE697969224D7D643.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset'
+[2018.01.22-00.31.17:979][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset
+[2018.01.22-00.31.18:664][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.22-00.31.18:736][ 52]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.22-00.31.18:741][ 52]LogPlayLevel: [PlayLevel] Compiling BP_ItemSpawner before play...
+[2018.01.22-00.31.19:069][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_ItemSpawner" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.01.22-00.31.19:148][ 52]LogSavePackage: Save=30.17ms
+[2018.01.22-00.31.19:149][ 52]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_ItemSpawnerBFBEA127449EEF4F82B26F91CFB204EF.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset'
+[2018.01.22-00.31.19:157][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset
+[2018.01.22-00.31.19:186][ 52]LogPlayLevel: PlayLevel: Blueprint regeneration took 449 ms (1 blueprints)
+[2018.01.22-00.31.19:186][ 52]PIE: New page: PIE session: MechanicsMap (Jan 21, 2018, 8:31:19 AM)
+[2018.01.22-00.31.19:187][ 52]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicsMap
+[2018.01.22-00.31.19:191][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003958s)
+[2018.01.22-00.31.19:191][ 52]LogAIModule: Creating AISystem for world MechanicsMap
+[2018.01.22-00.31.19:191][ 52]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.01.22-00.31.19:192][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicsMap.MechanicsMap to /Game/Levels/UEDPIE_0_MechanicsMap.MechanicsMap (0.005016s)
+[2018.01.22-00.31.19:225][ 52]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.22-00.31.19:230][ 52]LogInit: FAudioDevice initialized.
+[2018.01.22-00.31.19:298][ 52]LogLoad: Game class is '3PGM_C'
+[2018.01.22-00.31.19:299][ 52]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicsMap.MechanicsMap up for play (max tick rate 0) at 2018.01.21-16.31.19
+[2018.01.22-00.31.19:299][ 52]LogWorld: Bringing up level for play took: 0.000813
+[2018.01.22-00.31.19:440][ 52]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.22-00.31.19:449][ 52]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicsMap 1.301
+[2018.01.22-00.31.19:495][ 52]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.01.22-00.33.15:416][973]BlueprintLog: New page: Compile Interact
+[2018.01.22-00.33.15:604][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interact" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset" SILENT=true
+[2018.01.22-00.33.15:661][973]LogSavePackage: Save=9.56ms
+[2018.01.22-00.33.15:661][973]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Interact5E3140924F9D6BF056E04598614D98CF.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset'
+[2018.01.22-00.33.15:665][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset
+[2018.01.22-00.33.21:509][378]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.33.22:277][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.33.22:364][378]LogSavePackage: Save=45.69ms
+[2018.01.22-00.33.22:364][378]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItem078874A04D57632D42A0CDBE2A217C06.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.33.22:368][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.33.22:439][378]LogSavePackage: Save=18.89ms
+[2018.01.22-00.33.22:440][378]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseCrafting11AED7D44E0B9873E5E3D39A679E26EE.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset'
+[2018.01.22-00.33.22:443][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset
+[2018.01.22-00.33.22:452][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseDrink" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset" SILENT=true
+[2018.01.22-00.33.22:516][378]LogSavePackage: Save=20.60ms
+[2018.01.22-00.33.22:516][378]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseDrink335AAFB4445C8ED5258AD49E58B87706.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset'
+[2018.01.22-00.33.22:520][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset
+[2018.01.22-00.33.22:525][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseWeapon" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.01.22-00.33.22:589][378]LogSavePackage: Save=17.75ms
+[2018.01.22-00.33.22:589][378]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseWeapon27568B7E4BA8ADA34D67969CCA27323B.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset'
+[2018.01.22-00.33.22:593][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset
+[2018.01.22-00.33.22:596][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_ItemSpawner" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.01.22-00.33.22:670][378]LogSavePackage: Save=31.03ms
+[2018.01.22-00.33.22:670][378]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_ItemSpawnerF0C3A1FF44298D035E5BC49B2FDEE6A8.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset'
+[2018.01.22-00.33.22:675][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset
+[2018.01.22-00.34.37:554][ 42]LogSavePackage: Save=32.48ms
+[2018.01.22-00.34.37:554][ 42]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/MechanicsMap_Auto296E22D57449919E7D87E69BC6ACDF1A7.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Levels/MechanicsMap_Auto2.umap'
+[2018.01.22-00.34.37:556][ 42]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Levels/MechanicsMap_Auto2.umap
+[2018.01.22-00.34.37:561][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicsMap' took 0.115
+[2018.01.22-00.34.37:561][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.115
+[2018.01.22-00.34.37:576][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player] ([1] browsable assets)...
+[2018.01.22-00.34.37:602][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2018.01.22-00.34.37:603][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2018.01.22-00.34.37:810][ 42]LogSavePackage: Save=165.43ms
+[2018.01.22-00.34.37:810][ 42]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Player_Auto2E289F8CE4848E8245A6E36B02119AFE4.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Blueprints/Player_Auto2.uasset'
+[2018.01.22-00.34.37:812][ 42]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Blueprints/Player_Auto2.uasset
+[2018.01.22-00.34.37:812][ 42]LogFileHelpers: Auto-saving content packages took 0.238
+[2018.01.22-00.36.52:964][305]BlueprintLog: New page: Compile Interact
+[2018.01.22-00.36.53:177][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interact" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset" SILENT=true
+[2018.01.22-00.36.53:227][305]LogSavePackage: Save=9.59ms
+[2018.01.22-00.36.53:228][305]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/InteractFC4E9CD2461CC7A42C1F5B9ACD2D6447.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset'
+[2018.01.22-00.36.53:232][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset
+[2018.01.22-00.37.14:396][406]BlueprintLog: New page: Compile Interact
+[2018.01.22-00.37.14:566][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interact" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset" SILENT=true
+[2018.01.22-00.37.14:624][406]LogSavePackage: Save=12.38ms
+[2018.01.22-00.37.14:624][406]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/InteractD04C87AC423C35970EF50BBA97EBA1D8.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset'
+[2018.01.22-00.37.14:629][406]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset
+[2018.01.22-00.37.44:862][489]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.37.45:607][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.37.45:701][489]LogSavePackage: Save=40.08ms
+[2018.01.22-00.37.45:701][489]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItem74C07BF5472FB9525230DD8FEA3853A4.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.37.45:705][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.37.45:769][489]LogSavePackage: Save=20.59ms
+[2018.01.22-00.37.45:770][489]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseCrafting778BB0B8411818BCD14C48AB01FEAE84.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset'
+[2018.01.22-00.37.45:773][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset
+[2018.01.22-00.37.45:778][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseDrink" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset" SILENT=true
+[2018.01.22-00.37.45:837][489]LogSavePackage: Save=17.84ms
+[2018.01.22-00.37.45:838][489]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseDrinkD347C3C24EB0DDE8DB3076B941C185C0.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset'
+[2018.01.22-00.37.45:842][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset
+[2018.01.22-00.37.45:847][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseWeapon" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.01.22-00.37.45:903][489]LogSavePackage: Save=16.77ms
+[2018.01.22-00.37.45:904][489]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseWeaponAE36285C4BEFB634476977A829B4F175.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset'
+[2018.01.22-00.37.45:908][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset
+[2018.01.22-00.37.45:912][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_ItemSpawner" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.01.22-00.37.45:986][489]LogSavePackage: Save=31.44ms
+[2018.01.22-00.37.45:986][489]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_ItemSpawnerF5D8EC584C6554A0A20581BFFB011E49.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset'
+[2018.01.22-00.37.45:990][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset
+[2018.01.22-00.38.03:726][ 25]LogEditorTransaction: Undo Move Node
+[2018.01.22-00.40.52:954][835]BlueprintLog: New page: Compile Interact
+[2018.01.22-00.40.53:130][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interact" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset" SILENT=true
+[2018.01.22-00.40.53:190][835]LogSavePackage: Save=9.38ms
+[2018.01.22-00.40.53:190][835]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/InteractA239F2764D5586E1E3724B9D1ECEAC66.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset'
+[2018.01.22-00.40.53:195][835]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Interact.uasset
+[2018.01.22-00.40.56:332][967]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.40.57:097][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.40.57:172][967]LogSavePackage: Save=35.31ms
+[2018.01.22-00.40.57:172][967]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItem14800B1B4F2E89673FC060857908EA68.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.40.57:176][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.40.57:244][967]LogSavePackage: Save=17.87ms
+[2018.01.22-00.40.57:244][967]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseCraftingBAD1A87241FC928262DB7289DB4BB45E.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset'
+[2018.01.22-00.40.57:248][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset
+[2018.01.22-00.40.57:251][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseDrink" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset" SILENT=true
+[2018.01.22-00.40.57:319][967]LogSavePackage: Save=19.87ms
+[2018.01.22-00.40.57:319][967]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseDrinkD264523C46E441D585C829A858B10A96.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset'
+[2018.01.22-00.40.57:323][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset
+[2018.01.22-00.40.57:327][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseWeapon" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.01.22-00.40.57:392][967]LogSavePackage: Save=19.42ms
+[2018.01.22-00.40.57:392][967]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseWeaponD46004914CB5B825CE5E01A29BB6A5EF.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset'
+[2018.01.22-00.40.57:396][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset
+[2018.01.22-00.40.57:399][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_ItemSpawner" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.01.22-00.40.57:469][967]LogSavePackage: Save=29.34ms
+[2018.01.22-00.40.57:469][967]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_ItemSpawner03F2414C418C8347DCFD07A051FB92E2.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset'
+[2018.01.22-00.40.57:473][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_ItemSpawner.uasset
+[2018.01.22-00.42.17:092][710]BlueprintLog: New page: Compile Player
+[2018.01.22-00.42.17:905][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset" SILENT=true
+[2018.01.22-00.42.18:115][710]LogSavePackage: Save=163.40ms
+[2018.01.22-00.42.18:115][710]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Player307A9307466AB80C56804699E4195941.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset'
+[2018.01.22-00.42.18:122][710]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset
+[2018.01.22-00.42.21:478][ 62]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.42.22:068][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.42.22:140][ 62]LogSavePackage: Save=32.66ms
+[2018.01.22-00.42.22:140][ 62]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItem3D09DB9745ED8B46349F3DB569AAC24E.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.42.22:144][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.44.20:229][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.44.20:307][871]LogSavePackage: Save=29.23ms
+[2018.01.22-00.44.20:307][871]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItem964266C9466181FA606FBCA9F896B58C.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.44.20:312][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.44.39:982][914]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.44.40:661][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.44.40:734][914]LogSavePackage: Save=29.51ms
+[2018.01.22-00.44.40:734][914]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItem8996781249B2B9817515019E0243FAD3.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.44.40:738][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.44.40:808][914]LogSavePackage: Save=19.91ms
+[2018.01.22-00.44.40:808][914]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseCrafting78ECF8D9489FDAC65C609FA55B583796.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset'
+[2018.01.22-00.44.40:813][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset
+[2018.01.22-00.44.40:818][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseDrink" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset" SILENT=true
+[2018.01.22-00.44.40:887][914]LogSavePackage: Save=19.55ms
+[2018.01.22-00.44.40:887][914]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseDrink2F5A9B76483C6E9EFE1DE4B6697EC98C.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset'
+[2018.01.22-00.44.40:891][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset
+[2018.01.22-00.44.40:896][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseWeapon" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.01.22-00.44.40:957][914]LogSavePackage: Save=18.90ms
+[2018.01.22-00.44.40:957][914]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseWeapon755928304FC0841FDB8E73A844E6EC0C.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset'
+[2018.01.22-00.44.40:961][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset
+[2018.01.22-00.45.53:944][277]LogSavePackage: Save=31.46ms
+[2018.01.22-00.45.53:944][277]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/MechanicsMap_Auto36E2AF7DD4CCCB30ECC23909F255AA007.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Levels/MechanicsMap_Auto3.umap'
+[2018.01.22-00.45.53:945][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Levels/MechanicsMap_Auto3.umap
+[2018.01.22-00.45.53:948][277]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicsMap' took 0.109
+[2018.01.22-00.45.53:948][277]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2018.01.22-00.45.53:962][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player] ([1] browsable assets)...
+[2018.01.22-00.45.53:988][277]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2018.01.22-00.45.53:988][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2018.01.22-00.45.54:193][277]LogSavePackage: Save=163.84ms
+[2018.01.22-00.45.54:193][277]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Player_Auto38445D150417ACA66C6FB2A9F8A49343C.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Blueprints/Player_Auto3.uasset'
+[2018.01.22-00.45.54:195][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Autosaves/Game/Blueprints/Player_Auto3.uasset
+[2018.01.22-00.45.54:195][277]LogFileHelpers: Auto-saving content packages took 0.234
+[2018.01.22-00.46.09:504][169]LogEditorTransaction: Undo Move Node
+[2018.01.22-00.46.10:066][196]LogEditorTransaction: Undo Move Node
+[2018.01.22-00.46.10:581][224]LogEditorTransaction: Undo Move Node
+[2018.01.22-00.46.11:238][266]LogEditorTransaction: Undo Remove Variable
+[2018.01.22-00.46.11:659][297]LogEditorTransaction: Undo Create Pin Link
+[2018.01.22-00.46.12:032][323]LogEditorTransaction: Undo Create Pin Link
+[2018.01.22-00.46.12:429][353]LogEditorTransaction: Undo Move Nodes
+[2018.01.22-00.46.12:779][379]LogEditorTransaction: Undo Delete current selection
+[2018.01.22-00.46.13:193][409]LogEditorTransaction: Undo Delete current selection
+[2018.01.22-00.46.37:289][870]LogEditorTransaction: Undo Move Node
+[2018.01.22-00.46.37:815][890]LogEditorTransaction: Undo Move Node
+[2018.01.22-00.46.38:596][940]LogEditorTransaction: Undo Delete current selection
+[2018.01.22-00.50.32:345][349]LogEditorTransaction: Undo Move Node
+[2018.01.22-00.50.32:891][389]LogEditorTransaction: Undo Delete current selection
+[2018.01.22-00.50.34:414][481]LogEditorTransaction: Undo Add Node
+[2018.01.22-00.52.49:519][130]BlueprintLog: New page: Compile BP_BaseItem
+[2018.01.22-00.52.50:204][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_BaseItem" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset" SILENT=true
+[2018.01.22-00.52.50:286][130]LogSavePackage: Save=33.22ms
+[2018.01.22-00.52.50:286][130]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseItemF6694B36473E82B45F122782EC33C863.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset'
+[2018.01.22-00.52.50:290][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/BP_BaseItem.uasset
+[2018.01.22-00.52.50:361][130]LogSavePackage: Save=18.98ms
+[2018.01.22-00.52.50:361][130]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseCraftingDA75376543318E12472720AD553A6DB8.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset'
+[2018.01.22-00.52.50:365][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseCrafting.uasset
+[2018.01.22-00.52.50:389][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseDrink" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset" SILENT=true
+[2018.01.22-00.52.50:468][130]LogSavePackage: Save=27.12ms
+[2018.01.22-00.52.50:468][130]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseDrink2AFE93084F845F01C7D8A5B01E324F80.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset'
+[2018.01.22-00.52.50:474][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseDrink.uasset
+[2018.01.22-00.52.50:492][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/Items/BP_BaseWeapon" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.01.22-00.52.50:565][130]LogSavePackage: Save=25.39ms
+[2018.01.22-00.52.50:565][130]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/BP_BaseWeapon9D2CD9F9405E3F5D99D154B5D6808BF2.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset'
+[2018.01.22-00.52.50:568][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/ItemSpawner/Items/BP_BaseWeapon.uasset
+[2018.01.22-00.53.08:450][993]BlueprintLog: New page: Compile Player
+[2018.01.22-00.53.09:233][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset" SILENT=true
+[2018.01.22-00.53.09:437][993]LogSavePackage: Save=156.35ms
+[2018.01.22-00.53.09:437][993]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/Player678F217E4172971ED8F133B191A8AE6D.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset'
+[2018.01.22-00.53.09:444][993]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset
+[2018.01.22-00.53.10:067][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.22-00.53.10:101][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.22-00.53.10:101][ 35]PIE: New page: PIE session: MechanicsMap (Jan 21, 2018, 8:53:10 AM)
+[2018.01.22-00.53.10:101][ 35]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicsMap
+[2018.01.22-00.53.10:105][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003765s)
+[2018.01.22-00.53.10:106][ 35]LogAIModule: Creating AISystem for world MechanicsMap
+[2018.01.22-00.53.10:106][ 35]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2018.01.22-00.53.10:106][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicsMap.MechanicsMap to /Game/Levels/UEDPIE_0_MechanicsMap.MechanicsMap (0.005107s)
+[2018.01.22-00.53.10:147][ 35]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.22-00.53.10:154][ 35]LogInit: FAudioDevice initialized.
+[2018.01.22-00.53.10:209][ 35]LogLoad: Game class is '3PGM_C'
+[2018.01.22-00.53.10:210][ 35]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicsMap.MechanicsMap up for play (max tick rate 0) at 2018.01.21-16.53.10
+[2018.01.22-00.53.10:210][ 35]LogWorld: Bringing up level for play took: 0.000807
+[2018.01.22-00.53.10:219][ 35]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicsMap 0.072
+[2018.01.22-00.55.32:168][389]BlueprintLog: New page: Compile Player
+[2018.01.22-00.55.32:986][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset" SILENT=true
+[2018.01.22-00.55.33:199][389]LogSavePackage: Save=170.32ms
+[2018.01.22-00.55.33:199][389]LogSavePackage: Moving '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Saved/PlayerBAC2C9E24034FB868292D693E427A1EC.tmp' to '../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset'
+[2018.01.22-00.55.33:204][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/AlphaParticle/AlphaParticleV0/MainProject/Content/Blueprints/Player.uasset
+[2018.01.22-00.55.34:481][515]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.22-00.55.34:517][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.22-00.55.34:517][515]PIE: New page: PIE session: MechanicsMap (Jan 21, 2018, 8:55:34 AM)
+[2018.01.22-00.55.34:517][515]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicsMap
+[2018.01.22-00.55.34:520][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003259s)
+[2018.01.22-00.55.34:521][515]LogAIModule: Creating AISystem for world MechanicsMap
+[2018.01.22-00.55.34:521][515]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2018.01.22-00.55.34:521][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicsMap.MechanicsMap to /Game/Levels/UEDPIE_0_MechanicsMap.MechanicsMap (0.004451s)
+[2018.01.22-00.55.34:558][515]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.22-00.55.34:562][515]LogInit: FAudioDevice initialized.
+[2018.01.22-00.55.34:621][515]LogLoad: Game class is '3PGM_C'
+[2018.01.22-00.55.34:623][515]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicsMap.MechanicsMap up for play (max tick rate 0) at 2018.01.21-16.55.34
+[2018.01.22-00.55.34:623][515]LogWorld: Bringing up level for play took: 0.001131
+[2018.01.22-00.55.34:637][515]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicsMap 0.489
+[2018.01.22-00.56.42:546][815]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.22-00.56.43:084][815]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.537 s
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: 
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: Stack: 
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000F7A22786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000F77C123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000F77DB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000E6F433F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000E5C003AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000E4EF3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000E4D874AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000E4D8ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000E4EB8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000F70E7397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000F70ECE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000F7329913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000F7143484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000F711B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000F710D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x000000001035E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x0000000010351A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000103603EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x000000001034D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x000000002AB9B85D USER32.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x000000002AB9B1EF USER32.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x0000000010361516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000C02950C8 UE4Editor.exe!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000C02A5430 UE4Editor.exe!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000C02A54AA UE4Editor.exe!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000C02B2379 UE4Editor.exe!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000C02B3D57 UE4Editor.exe!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x00000000286B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: [Callstack] 0x000000002B0BEFB1 ntdll.dll!UnknownFunction []
+[2018.01.22-00.56.43:084][815]LogOutputDevice: Error: 
+[2018.01.22-00.56.43:087][815]LogStats:                SubmitErrorReport -  0.000 s
